@@ -1,0 +1,1 @@
+El usuario de login se encuentra en el campo alias de ta tabla usuarios.
